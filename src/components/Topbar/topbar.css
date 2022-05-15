@@ -1,0 +1,39 @@
+.Navbar{
+    display: flex;
+    justify-content: right;
+    padding-right: 50px;
+    height: 100px;
+    align-items: center;
+    background-color: #1d1d1d;
+
+}
+
+li{
+    display: inline;
+    padding: 5px;
+    margin: 0px 10px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+a:visited{
+    color: white;
+}
+
+a:hover{
+    color: #92fe9d;
+    padding-bottom: 15px;
+    border-bottom: solid 2px #00c9ff;
+}
+
+.title{
+    justify-content: left ;
+    align-items: center;
+    position: absolute;
+    left: 50px;
+    color:white;
+}
