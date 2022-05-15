@@ -16,13 +16,36 @@
 .text-nxtlvl{
     color: white;
     display: flex;
-    align-items: center;
-    justify-content: center;
+    margin: 0 auto;
+    max-width: 51%;
+    min-width: 450px;
+    font-size: 20px;
+    text-align: center;
 }
 
 .img-nxtlvl img{
     display: flex;
-   margin:auto;
+    margin: auto;
     height: 400px;
     width: 600px;
+}
+
+.why{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+.tile{
+    padding: 10px;
+    width: 15%;
+    color: white;
+    font-size: 20px;
+}
+
+mark{
+    color:#38b6ff;
+    background: none;
 }
