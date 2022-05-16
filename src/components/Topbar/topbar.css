@@ -37,3 +37,21 @@ a:hover{
     left: 50px;
     color:white;
 }
+
+@media only screen and (max-width: 1200px)
+{
+    ul{
+        display: none;
+    }
+    .title{
+        display: flex;
+        justify-content: center ;    
+    }
+    .title img{
+        width: 300px;
+    }
+    .Navbar{
+        height: 75px;
+    
+    }
+}

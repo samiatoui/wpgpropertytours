@@ -1,4 +1,5 @@
 import "./nxtlvl.css"
+import video from '../../Videos/50.mp4'
 
 export default function Contact() {
     return (
@@ -10,8 +11,10 @@ export default function Contact() {
                 <div className="text-nxtlvl">
                     The data indicates that Virtual Tours are becoming essential for every listing
                 </div>
-                <div className="img-nxtlvl">
-                    <img src="https://i.imgur.com/54BR2c0.png"></img>
+                <div className="vid-nxtlvl">
+                    <video controls autoPlay loop muted playsinline>
+                        <source src={video} type="video/mp4"/>
+                    </video>
                 </div>
             </div>
             <div className="why">

@@ -5,9 +5,9 @@ const MenuItems = [
         cName: 'about'
     },
     {
-        title: 'Projects',
+        title: 'Our Work',
         url: '#',
-        cName: 'projects'
+        cName: 'ourwork'
     },
     {
         title: 'Contact',

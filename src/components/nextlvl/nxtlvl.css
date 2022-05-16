@@ -18,16 +18,14 @@
     display: flex;
     margin: 0 auto;
     width: 35%;
-    min-width: 450px;
     font-size: 20px;
     text-align: center;
 }
 
-.img-nxtlvl img{
+.vid-nxtlvl video{
     display: flex;
     margin: auto;
-    height: 400px;
-    width: 600px;
+    padding-top: 40px;
 }
 
 .why{
@@ -48,4 +46,34 @@
 mark{
     color:#38b6ff;
     background: none;
+}
+
+@media only screen and (max-width: 767px)
+{
+    .vid-nxtlvl video{
+        display: flex;
+        margin: auto;
+        padding-top: 40px;
+        max-width: 375px;
+    }
+    .nextlvl{
+        display: block;
+        
+    }
+    .why{
+        display: block;
+    }
+    .tile{
+        min-width: 300px;
+        max-width: 400px;
+        margin: 0 auto;
+    }
+    .title-nxtlvl{
+       text-align: center;
+    }
+
+    .text-nxtlvl {
+        margin: 0 auto;
+        width: 400px;
+    }
 }

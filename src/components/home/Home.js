@@ -6,11 +6,14 @@ export default function About() {
         <div className="about">
             <div className="text">
             <img src="https://i.imgur.com/vqDQYja.png"></img>
-                <p>Virtual tours photography.</p>
+                <p>Providing virtual tour services for all sorts of properties.</p>
 
                 <button className="contactme">
                     Get in touch.
                 </button>
+            </div>
+            <div className="imghome">
+                <img src="https://i.imgur.com/F7vIDAY.png"></img>
             </div>
         </div>
     )
