@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/wpgpropertytours/static/css/main.eafd68b0.css",
-    "main.js": "/wpgpropertytours/static/js/main.e7736fd0.js",
-    "static/media/50.mp4": "/wpgpropertytours/static/media/50.3c8336582637d7b9b80b.mp4",
-    "static/media/glacial-indifference-400italic.woff": "/wpgpropertytours/static/media/glacial-indifference-400italic.c3afa1d57702a6bc28d6.woff",
-    "static/media/glacial-indifference-700.woff": "/wpgpropertytours/static/media/glacial-indifference-700.bf6cffde246b3f1b2689.woff",
-    "static/media/glacial-indifference-400.woff": "/wpgpropertytours/static/media/glacial-indifference-400.2fe7904dc3ce1b9f0ee9.woff",
-    "static/media/glacial-indifference-400italic.woff2": "/wpgpropertytours/static/media/glacial-indifference-400italic.a59e0befee7f56e61759.woff2",
-    "static/media/glacial-indifference-700.woff2": "/wpgpropertytours/static/media/glacial-indifference-700.d1ec8738b77ed769d4ef.woff2",
-    "static/media/glacial-indifference-400.woff2": "/wpgpropertytours/static/media/glacial-indifference-400.91983e55e28839640601.woff2",
-    "index.html": "/wpgpropertytours/index.html",
-    "main.eafd68b0.css.map": "/wpgpropertytours/static/css/main.eafd68b0.css.map",
-    "main.e7736fd0.js.map": "/wpgpropertytours/static/js/main.e7736fd0.js.map"
+    "main.css": "/static/css/main.ca032bfa.css",
+    "main.js": "/static/js/main.91eedda8.js",
+    "static/media/50.mp4": "/static/media/50.3c8336582637d7b9b80b.mp4",
+    "static/media/glacial-indifference-400italic.woff": "/static/media/glacial-indifference-400italic.c3afa1d57702a6bc28d6.woff",
+    "static/media/glacial-indifference-700.woff": "/static/media/glacial-indifference-700.bf6cffde246b3f1b2689.woff",
+    "static/media/glacial-indifference-400.woff": "/static/media/glacial-indifference-400.2fe7904dc3ce1b9f0ee9.woff",
+    "static/media/glacial-indifference-400italic.woff2": "/static/media/glacial-indifference-400italic.a59e0befee7f56e61759.woff2",
+    "static/media/glacial-indifference-700.woff2": "/static/media/glacial-indifference-700.d1ec8738b77ed769d4ef.woff2",
+    "static/media/glacial-indifference-400.woff2": "/static/media/glacial-indifference-400.91983e55e28839640601.woff2",
+    "index.html": "/index.html",
+    "main.ca032bfa.css.map": "/static/css/main.ca032bfa.css.map",
+    "main.91eedda8.js.map": "/static/js/main.91eedda8.js.map"
   },
   "entrypoints": [
-    "static/css/main.eafd68b0.css",
-    "static/js/main.e7736fd0.js"
+    "static/css/main.ca032bfa.css",
+    "static/js/main.91eedda8.js"
   ]
 }
