@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.d87f2af5.css",
-    "main.js": "/static/js/main.64d161af.js",
-    "static/media/glacial-indifference-400italic.woff": "/static/media/glacial-indifference-400italic.c3afa1d57702a6bc28d6.woff",
-    "static/media/glacial-indifference-700.woff": "/static/media/glacial-indifference-700.bf6cffde246b3f1b2689.woff",
-    "static/media/glacial-indifference-400.woff": "/static/media/glacial-indifference-400.2fe7904dc3ce1b9f0ee9.woff",
-    "static/media/glacial-indifference-400italic.woff2": "/static/media/glacial-indifference-400italic.a59e0befee7f56e61759.woff2",
-    "static/media/glacial-indifference-700.woff2": "/static/media/glacial-indifference-700.d1ec8738b77ed769d4ef.woff2",
-    "static/media/glacial-indifference-400.woff2": "/static/media/glacial-indifference-400.91983e55e28839640601.woff2",
-    "index.html": "/index.html",
-    "main.d87f2af5.css.map": "/static/css/main.d87f2af5.css.map",
-    "main.64d161af.js.map": "/static/js/main.64d161af.js.map"
+    "main.css": "/wpgpropertytours/static/css/main.07514c33.css",
+    "main.js": "/wpgpropertytours/static/js/main.64d161af.js",
+    "static/media/glacial-indifference-400italic.woff": "/wpgpropertytours/static/media/glacial-indifference-400italic.c3afa1d57702a6bc28d6.woff",
+    "static/media/glacial-indifference-700.woff": "/wpgpropertytours/static/media/glacial-indifference-700.bf6cffde246b3f1b2689.woff",
+    "static/media/glacial-indifference-400.woff": "/wpgpropertytours/static/media/glacial-indifference-400.2fe7904dc3ce1b9f0ee9.woff",
+    "static/media/glacial-indifference-400italic.woff2": "/wpgpropertytours/static/media/glacial-indifference-400italic.a59e0befee7f56e61759.woff2",
+    "static/media/glacial-indifference-700.woff2": "/wpgpropertytours/static/media/glacial-indifference-700.d1ec8738b77ed769d4ef.woff2",
+    "static/media/glacial-indifference-400.woff2": "/wpgpropertytours/static/media/glacial-indifference-400.91983e55e28839640601.woff2",
+    "index.html": "/wpgpropertytours/index.html",
+    "main.07514c33.css.map": "/wpgpropertytours/static/css/main.07514c33.css.map",
+    "main.64d161af.js.map": "/wpgpropertytours/static/js/main.64d161af.js.map"
   },
   "entrypoints": [
-    "static/css/main.d87f2af5.css",
+    "static/css/main.07514c33.css",
     "static/js/main.64d161af.js"
   ]
 }
