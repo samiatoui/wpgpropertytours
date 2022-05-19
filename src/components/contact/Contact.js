@@ -6,10 +6,10 @@ export default function Contact() {
             <hr></hr>
             <div className="title-contact">
         
-                <h1>Get in touch.</h1>
+                <h1>Book your virtual tour.</h1>
             </div>
             <div className="text-contact">
-                For all inquiries you may contact me using the methods below or through my LinkedIn
+                Please use the form below for all questions and booking inquiries.
             </div>
         </div>
     )

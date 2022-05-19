@@ -25,7 +25,7 @@ export default function Contact() {
                     <mark>54%</mark> of buyers skip over listings of properties that don’t include virtual tours.
                 </div>
                 <div className="tile">
-                    <mark>63%</mark> made an offer on a property that they hadn’t seen in person.
+                    <mark>75%</mark> of buyers said they prefer a listing with a virtual tour.
                 </div>
             </div>
         </div>
