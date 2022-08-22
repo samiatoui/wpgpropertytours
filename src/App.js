@@ -8,7 +8,6 @@ require('typeface-glacial-indifference')
 function App() {
   return (
     <div className="App">
-      <Topbar />
       <div className="sections">
         <Home />
         <Nxtlvl />
@@ -17,5 +16,7 @@ function App() {
     </div>
   );
 }
+
+
 
 export default App;
