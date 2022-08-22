@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2a95354f.css",
-    "main.js": "/static/js/main.6133c052.js",
+    "main.css": "/static/css/main.56f80c46.css",
+    "main.js": "/static/js/main.3afca7cc.js",
     "static/media/50.mp4": "/static/media/50.3c8336582637d7b9b80b.mp4",
     "static/media/glacial-indifference-400italic.woff": "/static/media/glacial-indifference-400italic.c3afa1d57702a6bc28d6.woff",
     "static/media/glacial-indifference-700.woff": "/static/media/glacial-indifference-700.bf6cffde246b3f1b2689.woff",
@@ -10,11 +10,11 @@
     "static/media/glacial-indifference-700.woff2": "/static/media/glacial-indifference-700.d1ec8738b77ed769d4ef.woff2",
     "static/media/glacial-indifference-400.woff2": "/static/media/glacial-indifference-400.91983e55e28839640601.woff2",
     "index.html": "/index.html",
-    "main.2a95354f.css.map": "/static/css/main.2a95354f.css.map",
-    "main.6133c052.js.map": "/static/js/main.6133c052.js.map"
+    "main.56f80c46.css.map": "/static/css/main.56f80c46.css.map",
+    "main.3afca7cc.js.map": "/static/js/main.3afca7cc.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a95354f.css",
-    "static/js/main.6133c052.js"
+    "static/css/main.56f80c46.css",
+    "static/js/main.3afca7cc.js"
   ]
 }
