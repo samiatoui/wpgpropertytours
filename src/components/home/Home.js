@@ -8,7 +8,7 @@ export default function About() {
             <img src="https://i.imgur.com/vqDQYja.png"></img>
                 <p>Providing virtual tour services for all types of properties.</p>
 
-                <button className="contactme">
+                <button className="contactme" onClick='window.location="#contact"'>
                     Get in touch.
                 </button>
             </div>

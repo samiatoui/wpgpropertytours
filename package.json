@@ -4,6 +4,7 @@
   "private": false,
   "homepage": "https://samiatoui.github.io/",
   "dependencies": {
+    "@formspark/use-formspark": "^0.1.39",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
     "@testing-library/user-event": "^13.5.0",
