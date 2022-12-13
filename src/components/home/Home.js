@@ -11,7 +11,7 @@ export default function About() {
                 <img src="https://i.imgur.com/vqDQYja.png"></img>
                 <p>Providing virtual tour services for all types of properties.</p>
 
-                    <a href="https://https://www.instagram.com/wpgpropertytours/" className="contactme">
+                    <a href="https://www.instagram.com/wpgpropertytours/" className="contactme" target="_blank">
                         Instagram
                     </a>
             </div>
